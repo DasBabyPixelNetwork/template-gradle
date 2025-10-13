@@ -1,5 +1,5 @@
 [versions]
-pixelsystem = "1.7.2"
+pixelsystem = "1.7.4"
 
 [libraries]
 api = { group = "de.dasbabypixel.system", name = "pixelsystem-api", version.ref = "pixelsystem" }
